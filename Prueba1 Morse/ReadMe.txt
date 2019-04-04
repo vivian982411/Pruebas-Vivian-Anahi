@@ -1,6 +1,6 @@
 Vivian Anahí Juárez de la O
 vivian982411@gmail.com
-Este archivo puede ser ejecutado desde el cmd de windows siguiendo las siguientes instrucciones:
+Este archivo puede ser ejecutado desde la línea de comandos de windows siguiendo las siguientes instrucciones:
 1.- Ejecutar el cmd
 2.-Ingresar a la ruta donde esta guardado en archivo p.ej. " cd C:\Users\Vivian\Desktop>"
 3.- Identificar la ruta en la que se encuentra el compilador de java "javac.exe" p.ej. "C:\Program Files\Java\jdk1.8.0_161\bin\javac.exe"
